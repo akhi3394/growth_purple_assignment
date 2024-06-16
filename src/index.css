@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(45deg, white, rgb(181, 218, 230),white,#6f6d6d,white);
+    height: 95.6vh;
+}
+@media only screen and (max-width: 450px) {
+    body {
+        background: linear-gradient(45deg, white, rgb(181, 218, 230),white,#6f6d6d,white);
+        height: 120vh;
+    }
+  }
+
+  @media only screen and (max-width: 330px) {
+    body {
+        background: linear-gradient(45deg, white, rgb(181, 218, 230),white,#6f6d6d,white);
+        height: 134vh;
+    }
+  }
+
+  @media only screen and (max-width: 960px) {
+    body {
+        background: linear-gradient(45deg, white, rgb(181, 218, 230),white,#6f6d6d,white);
+        height:100vh;
+    }
+  }
